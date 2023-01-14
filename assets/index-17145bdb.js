@@ -10,7 +10,7 @@
                     Keep up with my latest services by visiting the social links below.</p></article></div>`,s=j(),r=g("section"),c=g("article"),c.innerHTML=`<h2 class="article-title svelte-zjcqvz">My Work:</h2> 
                 <p class="article-copy svelte-zjcqvz">Here are some of examples of work I have done, you can click the tab to switch between standard hair styles or wedding hair styles.</p>`,u=j(),d=g("div"),f=g("h3"),f.textContent="Standard Hair",b=j(),V(w.$$.fragment),y=j(),k=g("div"),q=g("h3"),q.textContent="Wedding Hair",S=j(),V(L.$$.fragment),h=j(),z=g("section"),z.innerHTML=`<article class="instructions svelte-zjcqvz"><h2 class="article-title svelte-zjcqvz">Contact Me:</h2> 
                 <p class="article-copy svelte-zjcqvz">Fill out the form below to reach out to me to get an appointment scheduled!</p></article> 
-            <form action="mailto:" method="post" enctype="" name="contact-form" class="contact-form svelte-zjcqvz"><label class="label-name svelte-zjcqvz" for="name">Name</label> 
+            <form action="mailto:morganlynnmach@gmail.com" method="post" enctype="" name="contact-form" class="contact-form svelte-zjcqvz"><label class="label-name svelte-zjcqvz" for="name">Name</label> 
                 <input class="input-name svelte-zjcqvz" type="text" name="name" id="name" placeholder="Name" required=""/> 
                 <label class="label-email svelte-zjcqvz" for="email">Email</label> 
                 <input class="input-email svelte-zjcqvz" type="email" name="email" id="email" placeholder="Email" required=""/> 
